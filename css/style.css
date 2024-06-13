@@ -797,7 +797,7 @@ a:hover {
 
 .work-content {
   padding: 2rem 3% 1rem 4%;
-  max-height: 100px;
+  height: 100px;
 }
 
 .work-content .w-more {
@@ -872,10 +872,12 @@ a:hover {
 /*======================================
 //--//-->   BLOG
 ======================================*/
-
+.card-img{
+  height: 350px;
+}
 .card-blog .card-body {
   position: relative;
-  max-height: 100px;
+  height: 100px;
 }
 
 .card-blog .card-category-box {
