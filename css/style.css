@@ -8,6 +8,9 @@
 /*======================================
 //--//-->   STYLES GENERALES
 ======================================*/
+.overtitle{
+  color: #fff;
+}
 #talk_content{
   margin-top:150px;
 }
