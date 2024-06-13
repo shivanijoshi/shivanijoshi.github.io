@@ -872,8 +872,9 @@ a:hover {
 /*======================================
 //--//-->   BLOG
 ======================================*/
-.card-img{
-  height: 350px;
+.img_fluid{
+  height:200px;
+  width: 100%;
 }
 .card-blog .card-body {
   position: relative;
