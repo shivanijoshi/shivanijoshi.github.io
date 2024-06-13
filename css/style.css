@@ -824,7 +824,7 @@ a:hover {
 }
 
 .w-title {
-  font-size: 1.2rem;
+  font-size: 0.9rem;
 }
 
 /*======================================
@@ -875,6 +875,7 @@ a:hover {
 
 .card-blog .card-body {
   position: relative;
+  max-height: 100px;
 }
 
 .card-blog .card-category-box {
@@ -906,7 +907,7 @@ a:hover {
 }
 
 .card-blog .card-title {
-  font-size: 1.3rem;
+  font-size: 0.9rem;
   margin-top: .6rem;
 }
 
