@@ -872,7 +872,7 @@ a:hover {
 /*======================================
 //--//-->   BLOG
 ======================================*/
-.img_fluid{
+.img-article{
   height:200px !important;
   width: 100% !important;
 }
